@@ -3,7 +3,7 @@
 ## Overview
 This personal project is a web-based Cyber Threat Intelligence Dashboard designed to aggregate, analyze, and visualize real-time threat data from multiple sources. It enables cybersecurity professionals to monitor threats, tag malicious indicators, and export data for further analysis, enhancing situational awareness.
 
- ![RG](screenshot/dashboard_UI.png)
+ ![CTI](screenshots/dashboard_UI.png)
 
 ## Objectives
 - Aggregate threat intelligence from public APIs (VirusTotal, AbuseIPDB) to process over 100 daily threat data points.
