@@ -26,8 +26,8 @@ This personal project is a web-based Cyber Threat Intelligence Dashboard designe
 ## Setup and Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/nuclearatom/Elevate-Labs-Final-Projects.git
-   cd Elevate-Labs-Final-Projects/cti
+   git clone https://github.com/nuclearatom/CTI-Dashboard.git
+   cd CTI-Dashboard
    ```
 2. **Set Up Virtual Environment**:
    ```bash
